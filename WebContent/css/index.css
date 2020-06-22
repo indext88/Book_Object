@@ -1,0 +1,77 @@
+@charset "UTF-8";
+a {
+	color: black;
+	cursor: hand;
+}
+
+.img {
+	
+}
+
+body {
+	transition-duration: 0.5s;
+}
+
+.mm {
+	font-size: 20px;
+	float: left;
+	width:1150px;
+	margin-top:42px;
+	text-align:center;
+}
+
+.mmm {
+	height: 22px;
+	font-size: 18px
+}
+
+.img {
+	float: left;
+}
+
+.herff {
+	float: left;
+	width: 12%;
+	background-color:gainsboro;
+	font-size: 20px;
+	margin-left: 110px;
+	line-height: 130%;
+}
+
+.topp {
+	float: left;
+	margin-top: -200px;
+	width:1800px;
+	margin-left:90px;
+}
+
+.books {
+	width: 1200px;
+	float:left;
+	margin-left:15px;
+}
+
+
+
+.book_li {
+	display: block;
+	width : 200px;
+	height: 240px;
+	float: left;
+	width: 200px;
+	margin-top:40px;
+	margin-left:20px;
+}
+.book_name {
+	height:45px;
+	overflow: hidden;
+}
+.book_price{
+color:red;
+margin-top:15px;
+margin-left:8px;
+}
+.book_img{
+text-align:center;
+
+}

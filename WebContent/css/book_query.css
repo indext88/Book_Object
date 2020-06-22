@@ -1,0 +1,42 @@
+@charset "UTF-8";
+    .query_all{
+        width: 1400px;
+        margin-left:250px;
+        margin-top:80px;
+    }
+    .book_all{
+        width: 250px;
+        height: 340px;
+        margin-left:20px;
+        margin-top:20px;
+        float:left;
+
+    }
+    .price{
+        font-size: 22px;
+        color: red;
+    }
+    .name{
+        font-size: 14px;
+        height: 20px;
+        width: 200px;
+        overflow: hidden;
+    }
+    .author{
+        font-size: 13px;
+        color:rgb(128, 126, 126);
+        height: 20px;
+        width: 200px;
+        overflow: hidden;
+    }
+    a{
+        text-decoration: none;
+        color: black;
+    }
+    .mm {
+	font-size: 20px;
+	float: left;
+	width:1400px;
+	margin-top:42px;
+	text-align:center;
+}

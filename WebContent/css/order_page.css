@@ -1,0 +1,38 @@
+@charset "UTF-8";
+.table_all{
+        width: 700px;
+        margin: auto;
+        margin-top:80px;
+    }
+    .table_a{
+        font-size: 20px;
+        background: #dcdbd6;
+        margin-top:10px;
+
+    }
+    .table_b{
+        margin-top: 10px;
+        background: #d2d0d0;
+        line-height: 2;
+        border-collapse: collapse;
+    }
+    a{
+        text-decoration: none;
+    }
+    .xiangqing{
+        border: 1px solid white;
+    }
+     .kuang{
+        width: 180px;
+        height: 20px;
+        margin-left: 406px;
+
+    }
+    .btn{
+        border: 0px;
+        width: 40px;
+        height: 25px;
+        margin-left: -5px;
+        margin-top: 1px;
+
+    }

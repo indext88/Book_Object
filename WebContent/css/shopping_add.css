@@ -1,0 +1,92 @@
+@charset "UTF-8";
+ .all_shopping{
+        width: 1200px;
+        height: 900px;
+        margin-top: 100px;
+        margin-left: 300px;
+    }
+    /*图片设置*/
+    .img_all{
+        width: 600px;
+        height: 600px;
+        float: left;
+    }
+
+    .shopping_img{
+        float: left;
+        margin-left: 100px
+    }
+
+    /*书本信息*/
+    .text_all{
+        float: left;
+        width: 550px;
+        margin-left: 20px;
+        line-height: 3;
+    }
+    ul{
+        list-style-type: none;
+    }
+    .text{
+        width: 30px;
+        height: 20px;
+        text-align: center;
+    }
+    .num_add,.num_reduce{
+        height: 26px;
+
+    }
+    .book_jianxi{
+        font-size: 0px;
+        margin-left: 90px;
+        margin-top: -40px;
+
+    }
+    .book_name{
+        font-size: 23px;
+        width:350px;
+        height: 50px;
+        overflow: hidden;
+    }
+    .book_a{
+       color: red;
+       font-size: 10px; 
+       margin-top: 20px;
+    }
+    .book_price{
+        color: red;
+        font-size: 22px;
+        margin-left: 45px;
+        margin-top: -58px;
+    }
+    .book_auto{
+        font-size: 10px;
+    }
+    .price{
+    }
+    .book_jianjie{
+        width: 500px;
+        height: 300px; 
+        font-size:12px;
+        overflow: hidden;  
+    }
+    .btn1,.btn2{
+        width: 100px;
+        height: 40px;
+        border: 0px;
+    }
+    .book_num{
+    marging-top:110px;
+    }
+    .btn1{
+        background-color: rgb(250, 153, 142);
+        color: rgb(247, 45, 9);
+    }
+    .btn2{
+        background-color: red;
+        color: white;
+        margin-left: 160px;
+    }
+    .shopping_btn{
+        margin-top: 50px;
+    }

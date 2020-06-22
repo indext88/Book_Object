@@ -1,0 +1,75 @@
+@charset "UTF-8";
+body {
+            background-image: url("../Img/aa_b.jpg");
+            transition-duration: 0.5s;
+
+        }
+    .tel_fangkuang{
+        width: 500px;
+        height: 580px;
+        margin-left: 1200px;
+        margin-top: 180px;
+        border: 1px solid beige;
+        opacity: 0.5;
+        background-image: url("../Img/back.GIF")
+    }
+    /*提交表单*/
+    .tijiao{
+        margin-left: 60px;
+        margin-top: 50px;
+        line-height: 90px;
+    }
+    .password{
+        font-size: 30px;
+    }
+    .usem{
+        font-size: 30px;
+    }
+    .yonghu{
+        width: 250px;
+        height: 35px;
+        font-size: 22px;
+    }
+    .pwd{
+        width: 250px;
+        height: 35px;
+        margin-left: 3px;
+        font-size: 20px;
+    }
+    .denlu{
+        font-size: 35px;
+        margin-left: 162px;
+        margin-top: 40px;
+    }
+    /*
+    按钮
+    */
+    .btn{
+        margin-top: 30px;
+    }
+    .tel{
+        width: 80px;
+        height: 40px;
+        border: 0px;
+        margin-left: 50px;
+    }
+    .exit{
+        width: 80px;
+        height: 40px;
+        border: 0px;
+        margin-left: 120px;
+    }
+    .zuce{
+        margin-left: 175px;
+        font-size: 20px;
+        margin-top: 30px;
+    }
+    a{
+        text-decoration: none;
+    }
+    .err{
+        background-color: red;
+        text-align: center;
+        font-size: 20px;
+        display: none;
+    }

@@ -1,0 +1,62 @@
+@charset "UTF-8";
+body {
+            background-image: url("../Img/aa.jpg");
+            transition-duration: 0.5s;
+
+        }
+
+        input::-webkit-input-placeholder {
+            font-size: 0.1px;
+            text-align: left;
+        }
+
+        .mm {
+            width: 650px;
+            height: 800px;
+            background-color: rgb(253, 253, 253);
+            opacity: 0.6;
+            margin: 70px auto;
+        }
+
+        .title {
+            font-size: 30px;
+            text-align: center;
+            color: darkturquoise;
+        }
+
+        .youhu {
+            font-size: 23px;
+            text-align: center;
+        }
+
+        .name,
+        .pwd,
+        .phone,
+        .mail,
+        .address {
+            width: 200px;
+            height: 25px;
+            text-align: left;
+        }
+
+        .ss {
+            width: 85px;
+            height: 28px;
+            background-color: aqua;
+            margin: 50px 0 0 150px;
+        }
+
+        .reset {
+            width: 85px;
+            height: 28px;
+            background-color: aqua;
+            margin: 50px 0 0 140px;
+        }
+
+        .buju {
+            text-align: right;
+        }
+
+        .tiaojian {
+            text-align: left;
+        }

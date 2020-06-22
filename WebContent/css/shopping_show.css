@@ -1,0 +1,128 @@
+@charset "UTF-8";
+   .shopping_all {
+            width: 1100px;
+            margin-top: 100px;
+            margin-left: 390px;
+        }
+
+        .book_jianxi {
+            
+
+        }
+        .gou{
+        font-size:20px;
+        margin-top:150px;
+        height:300px;
+        }
+
+        table {
+            width: 1100px;
+        }
+
+        .text {
+            width: 20px;
+            text-align: center;
+        }
+
+        .book_img {
+            margin-left: 20px;
+            margin-top: -20px;
+        }
+
+        .img_all {
+            margin-left: 15px;
+        }
+
+        .td_img {
+            width: 150px;
+        }
+
+        .td_name {
+            width: 400px;
+        }
+
+        .book_name {
+            font-size: 21px;
+        }
+
+        .book_price_b {
+            color: red;
+        }
+
+        .book_price {
+            font-size: 14px;
+        }
+
+        .book_name,
+        .book_price,
+        .book_jianxi,
+        .book_price_b,
+        .book_operation {
+            margin-top: -40px;
+        }
+        .num_reduce,.num_add{
+            border: 0px;
+            width: 25px;
+            height: 25px;
+            }
+
+        /*全选*/
+
+        .td_duo {
+            width: 20px;
+
+        }
+
+        .td_all {
+            width: 50px;
+        }
+
+        .td_del {
+            width: 50px;
+        }
+
+        .td_favorites {
+            width: 100px;
+        }
+
+        .td_share {
+            width: 400px;
+        }
+
+        .td_change {
+            width: 120px;
+        }
+
+        .td_sum_a {
+            width: 120px;
+        }
+
+        .td_sum_b {
+            width: 80px;
+            color: red;
+        }
+
+        .btn_sum {
+            width: 125px;
+            background-color: rgb(250, 125, 111);
+            height: 50px;
+            color: white;
+            border: 0px;
+        }
+
+        .table_c {
+            height: 60px;
+            background-color: rgb(204, 202, 202);
+        }
+
+        .td_price_a {
+            width: 130px;
+        }
+
+        .td_num {
+            width: 160px;
+        }
+
+        .td_price_b {
+            width: 145px;
+        }
